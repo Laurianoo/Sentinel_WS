@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Ambiente virtual
+.env/
+env/
+
+# Outros
+.vscode/
+.idea/
+config.ini
+config
+logs
+teste.py
+Output_GCS
+.Output_GCS
